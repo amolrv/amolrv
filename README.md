@@ -4,6 +4,7 @@ I'm a software engineer who is passionate about solving problems elegantly.
 
 ## Find me around the web 🌎: 
 - Sharing updates on <a href="https://linkedin.com/in/amol/">LinkedIn</a> 💼
+- Sharing articles on [dev.to/amol](https://dev.to/amol)
 
 ## I'm currenlty
 
