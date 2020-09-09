@@ -7,7 +7,7 @@ I'm a software engineer who is passionate about solving problems elegantly.
 
 ## I'm currenlty
 
-- 🔭 working on building personal blog on using github pages.
+- 🔭 working on building personal blog...
 - 🌱 learning SAFE stack
 - 😄 Pronouns: he/him
 
