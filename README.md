@@ -11,8 +11,8 @@ I'm a software engineer who is passionate about solving problems elegantly.
 - 🌱 learning SAFE stack
 - 😄 Pronouns: he/him
 
-![Amol's Github Stats](https://github-readme-stats.vercel.app/api?username=amolrv&count_private=true&show_icons=true&include_all_commits=true&)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amolrv&hide=TeX&layout=compact)
+
+![Amol's Github Stats](https://github-readme-stats.vercel.app/api?username=amolrv&count_private=true&show_icons=true&include_all_commits=true&)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amolrv.amolrv)
