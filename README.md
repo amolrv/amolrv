@@ -1,19 +1,24 @@
-# Hi, I'm Amol 👋
+### Hi, I'm Amol 👋
 
-I'm a software engineer who is passionate about solving problems elegantly.
+I'm a software engineer and passionate about solving problems elegantly.
+I'am currently working woith as a product engineer at [@golayer_io](https://twitter.com/golayer_io). I previously worked with N26 GmbH, Berlin, Germany and ThoughtWorks, Pune, India. 
 
-## Find me around the web 🌎: 
-- Sharing updates on <a href="https://linkedin.com/in/amol/">LinkedIn</a> 💼
-- Sharing articles on [dev.to/amol](https://dev.to/amol)
+Interest –
 
-## I'm currenlty
+🚀 Functional Programming  
 
-- 🔭 working on building personal blog...
-- 🌱 learning SAFE stack
-- 😄 Pronouns: he/him
+⚙️ Kotlin, Fsharp, Postgres, Kafka, AWS, Docker, CI/CD
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amolrv&hide=TeX&layout=compact)
+🍥 System design and scaling
 
-![Amol's Github Stats](https://github-readme-stats.vercel.app/api?username=amolrv&count_private=true&show_icons=true&include_all_commits=true&)
+🚀 Distributed Systems
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amolrv.amolrv)
+⚡️ Data Structures and Algorithms
+
+⚡️ Microservices architecture
+
+#### Find me around the web 🌎 
+- [LinkedIn 💼](https://linkedin.com/in/amol)
+- [amolrv.github.io](https://dev.to/amol)
+- [resume](https://dev.to/amol/resume)
+
