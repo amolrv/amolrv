@@ -17,5 +17,5 @@ Interest –
 
 ⚡️ Microservices architecture
 
-📝 [Blog](https://amolrv.github.io)
+📝 [Blog](https://amolrv.github.io/blog)
 
