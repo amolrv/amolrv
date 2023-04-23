@@ -1,7 +1,7 @@
 ### Hi, I'm Amol 👋
 
 I'm a software engineer and passionate about solving problems elegantly.
-I'am currently working with as a Senior Lead engineer at [@golayer_io](https://twitter.com/golayer_io). I previously worked with [N26 Berlin](http://n26.com) and [ThoughtWorks, Pune](https://www.thoughtworks.com/about-us). 
+I'am currently working with as a Senior Lead engineer at [@Quantcast](https://twitter.com/Quantcast). I previously worked with [N26 Berlin](http://n26.com) and [ThoughtWorks, Pune](https://www.thoughtworks.com/about-us). 
 
 Interest –
 
@@ -17,5 +17,5 @@ Interest –
 
 ⚡️ Microservices architecture
 
-📝 [Blog](https://amol.me)
+📝 [Blog](https://amolrv.github.io/blog)
 
